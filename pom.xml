@@ -52,7 +52,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>Calculator</mainClass>
+                            <mainClass>Calulator</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
